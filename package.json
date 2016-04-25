@@ -1,0 +1,27 @@
+{
+
+    "name": "connect-livereload",
+    "title": "connect-livereload",
+    "description": "connect-livereload",
+    "version": "1.0.0",
+    "homepage": "https://github.com/liupishui/connect-livereload",
+    "author": {
+        "name": "jingshuiyuan",
+        "url": "http://www.lpsjj.cn/blog/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liupishui/connect-livereload.git"
+    },
+    "keywords": [
+        "msgbox",
+        "messagebox"
+    ],
+    "bugs": {
+        "url": "https://github.com/liupis/connect-livereload/issues"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
